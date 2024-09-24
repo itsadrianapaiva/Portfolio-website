@@ -181,6 +181,7 @@
   a:hover {
    color: var(--fontcolor3);
    cursor: pointer;
+   transform: scale (1);
   }
   
 
